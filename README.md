@@ -2,7 +2,7 @@
 通过爬取逆水寒官博近期评论，简单分析玩家从22号开始对游戏的看法和意见
 （不会写爬虫...）
 
-一共9000多条评论, 正面评论5558条， 负面评论3852条
+一共9000多条评论, 负面评论5558条， 正面评论3852条（模糊，用的nlpsnow现有模型）
 * 通过词频分析
 ![](https://github.com/dai1054067910/AnalyzeNSHWBComments/raw/master/word_cloud_frequency.jpg)
 * 通过textrank算法抽取关键词
